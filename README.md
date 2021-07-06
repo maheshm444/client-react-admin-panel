@@ -73,7 +73,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 This is a client application of react-admin panel
 
 
-<h1>the application structure should be placed in the below way!</h1>
+<h1><u>The application structure should be placed in the below way!</u></h1>
 [image](https://user-images.githubusercontent.com/28859202/124623184-61605d80-de99-11eb-9ec3-df6672418830.png)
 
 Client Folder
